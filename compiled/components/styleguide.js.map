@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../components/styleguide.js"],"names":[],"mappings":";;AAAA;;;;;;AAEA,EAAE,MAAF,CAAS,SAAS,aAAT,CAAuB,MAAvB,CAAT","file":"styleguide.js","sourcesContent":["import Calendar from \"./Calendar\";\n\nm.render(document.querySelector(\"main\"), <Calendar/>);"]}
